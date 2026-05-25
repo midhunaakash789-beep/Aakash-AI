@@ -20,7 +20,7 @@ async function sendMessage() {
   input.value = "";
 
   const API_KEY =
-    "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";
+    "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";
 
   try {
 
